@@ -1,1 +1,1 @@
-# music-gender-prediction
+# music-taste-prediction
